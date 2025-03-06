@@ -6,3 +6,8 @@
 - 配置远程仓库
 - 配置项目结构
 - 配置项目环境
+
+## 20250306.002
+- 创建 src/views/element.py 文件，用于编写自定义组合控件
+- 创建 src/views/modules.py 文件，用于编写自定义功能模块
+- 创建 src/views/windows.py 文件，用于编写自定义窗体主体
